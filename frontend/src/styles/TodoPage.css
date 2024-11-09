@@ -1,0 +1,28 @@
+.todo-page {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  width: 100%;
+  padding: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  margin: 0 auto;
+  background: #f8f8f8;
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 12px;
+    text-align: center;
+  }
+
+  hr {
+    margin: 12px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+}
