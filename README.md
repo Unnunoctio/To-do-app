@@ -12,12 +12,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos prev
 
 ### Instalación
 
-1. Clona el repositorio:
+1. Clona el repositorio.
 
-```bash
-git clone https://github.com/Unnunnoctio/To-do-app.git
-cd To-do-app
-```
+2. Ingresa a la raiz del proyecto.
 
 ### Ejecución
 
